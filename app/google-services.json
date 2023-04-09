@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "994929405522",
+    "project_id": "chatapplication-e1578",
+    "storage_bucket": "chatapplication-e1578.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994929405522:android:c0be9b94fe877f4ebef98b",
+        "android_client_info": {
+          "package_name": "com.google.firebase.udacity.chatapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "994929405522-gp3jo0b8utl1stphircsbg68jmgcotf8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwB0ORUC18rdnk-dHkY6_vYmP6j0z0Pmw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "994929405522-gp3jo0b8utl1stphircsbg68jmgcotf8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
